@@ -1,6 +1,11 @@
 ## Hi — I'm Joachim 👋
 
-<img src="Github%20Profile%20Assets/c-.png" alt="profile banner" width="700"/>
+<p align="center">
+	<img src="Github%20Profile%20Assets/python.png" alt="Python" width="96"/>
+	<img src="Github%20Profile%20Assets/java.png" alt="Java" width="96"/>
+	<img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="96"/>
+	<img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="96"/>
+</p>
 
 Hi! I'm a software enthusiast who loves building things with Python, Java, and modern web stacks. I enjoy tackling interesting problems in physics and design, and I'm always learning new tools like Next.js and Figma.
 
@@ -8,13 +13,30 @@ Hi! I'm a software enthusiast who loves building things with Python, Java, and m
 
 **Connect with me**
 
-[a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" alt="gmail" width="24"/></a> <a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" alt="linkedin" width="24"/></a> <a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" alt="discord" width="24"/></a> <a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" alt="instagram" width="24"/></a> <a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" alt="youtube" width="24"/></a> <a href="https://facebook.com/your-profile"><img src="Github%20Profile%20Assets/facebook.png" alt="facebook" width="24"/></a>
+[table]
+<tr>
+	<td align="center"><a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" alt="gmail" width="28"/></a></td>
+	<td align="center"><a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" alt="linkedin" width="28"/></a></td>
+	<td align="center"><a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" alt="discord" width="28"/></a></td>
+	<td align="center"><a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" alt="instagram" width="28"/></a></td>
+	<td align="center"><a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" alt="youtube" width="28"/></a></td>
+	<td align="center"><a href="https://facebook.com/your-profile"><img src="Github%20Profile%20Assets/facebook.png" alt="facebook" width="28"/></a></td>
+</tr>
+</table>
 
 ---
 
 **Skills & Tools**
 
-<img src="Github%20Profile%20Assets/python.png" alt="Python" width="24"/> <img src="Github%20Profile%20Assets/java.png" alt="Java" width="24"/> <img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="24"/> <img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="24"/> <img src="Github%20Profile%20Assets/physics.png" alt="Physics" width="24"/>
+<table width="100%">
+	<tr>
+		<td align="center"><img src="Github%20Profile%20Assets/python.png" alt="Python" width="40"/></td>
+		<td align="center"><img src="Github%20Profile%20Assets/java.png" alt="Java" width="40"/></td>
+		<td align="center"><img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="40"/></td>
+		<td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
+		<td align="center"><img src="Github%20Profile%20Assets/physics.png" alt="Physics" width="40"/></td>
+	</tr>
+</table>
 
 ---
 
