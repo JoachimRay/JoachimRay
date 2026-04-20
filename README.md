@@ -1,11 +1,6 @@
 ## Hi — I'm Joachim 👋
 
-<p align="center">
-	<img src="Github%20Profile%20Assets/python.png" alt="Python" width="96"/>
-	<img src="Github%20Profile%20Assets/java.png" alt="Java" width="96"/>
-	<img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="96"/>
-	<img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="96"/>
-</p>
+
 
 Hi! I'm a software enthusiast who loves building things with Python, Java, and modern web stacks. I enjoy tackling interesting problems in physics and design, and I'm always learning new tools like Next.js and Figma.
 
@@ -32,9 +27,10 @@ Hi! I'm a software enthusiast who loves building things with Python, Java, and m
 	<tr>
 		<td align="center"><img src="Github%20Profile%20Assets/python.png" alt="Python" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/java.png" alt="Java" width="40"/></td>
+        <td align = "center"><img src="Github320Profile%20Assets/c-.png" alt = "CPP" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="40"/></td>
-		<td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/physics.png" alt="Physics" width="40"/></td>
+        <td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
 	</tr>
 </table>
 
