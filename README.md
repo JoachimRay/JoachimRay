@@ -11,10 +11,10 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="50%">
+<td align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" height="170"/>
 </td>
-<td align="center" width="50%">
+<td align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" height="170"/>
 </td>
 </tr>
