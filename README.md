@@ -1,10 +1,7 @@
 ## Yo I'm Joachim 👋
 
 <p align="center">
-	<video width="720" controls poster="Github%20Profile%20Assets/python.png">
-		<source src="Github%20Profile%20Assets/banner_video.mp4" type="video/mp4">
-		Your browser does not support the video tag — <a href="Github%20Profile%20Assets/banner_video.mp4">open the video directly</a>.
-	</video>
+	<img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="720"/>
 </p>
 
 ---
