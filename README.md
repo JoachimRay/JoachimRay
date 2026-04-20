@@ -84,26 +84,14 @@ Currently building new projects and experiments.
 # Tech Stack
 
 <p align="center">
-
-  <!-- Languages -->
-  <strong>Languages</strong><br/>
-  <img src="Github%20Profile%20Assets/python.png" width="40"/>
-  <img src="Github%20Profile%20Assets/java.png" width="40"/>
-  <img src="Github%20Profile%20Assets/c-.png" width="40"/>
-
-  <br/><br/>
-
-  <!-- Web Development -->
-  <strong>Web Development</strong><br/>
-  <img src="Github%20Profile%20Assets/nextjs.png" width="40"/>
-  <img src="Github%20Profile%20Assets/react.png" width="40"/>
-
-  <br/><br/>
-
-  <!-- Design -->
-  <strong>Design</strong><br/>
-  <img src="Github%20Profile%20Assets/figma.png" width="40"/>
-
+  <img title="Python" src="Github%20Profile%20Assets/python.png" width="40"/>
+  <img title="Java" src="Github%20Profile%20Assets/java.png" width="40"/>
+  <img title="C++" src="Github%20Profile%20Assets/c-.png" width="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="React" src="Github%20Profile%20Assets/react.png" width="40"/>
+  <img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="Figma" src="Github%20Profile%20Assets/figma.png" width="40"/>
 </p>
 
 ---
