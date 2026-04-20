@@ -81,48 +81,38 @@ Currently building new projects and experiments.
 
 ---
 
-## ⚒️ Tech Stack
+## Tech Stack
 
-<p align="center">
-
-  <img title="Python" src="Github%20Profile%20Assets/python.png" width="48"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img title="Java" src="Github%20Profile%20Assets/java.png" width="48"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img title="C++" src="Github%20Profile%20Assets/c-.png" width="48"/>
-
-  <br/><br/>
-
-  <img title="React" src="Github%20Profile%20Assets/react.png" width="48"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="48"/>
-
-  <br/><br/>
-
-  <img title="Figma" src="Github%20Profile%20Assets/figma.png" width="48"/>
-
-</p>
+<table align="center">
+<tr>
+  <th align="center" colspan="3">Languages</th>
+</tr>
+<tr>
+  <td align="center"><img title="Python" src="Github%20Profile%20Assets/python.png" width="50"/><br/><sub>Python</sub></td>
+  <td align="center"><img title="Java" src="Github%20Profile%20Assets/java.png" width="50"/><br/><sub>Java</sub></td>
+  <td align="center"><img title="C++" src="Github%20Profile%20Assets/c-.png" width="50"/><br/><sub>C++</sub></td>
+</tr>
+<tr>
+  <th align="center" colspan="3">Web & Tools</th>
+</tr>
+<tr>
+  <td align="center"><img title="React" src="Github%20Profile%20Assets/react.png" width="50"/><br/><sub>React</sub></td>
+  <td align="center"><img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="50"/><br/><sub>Next.js</sub></td>
+  <td align="center"><img title="Figma" src="Github%20Profile%20Assets/figma.png" width="50"/><br/><sub>Figma</sub></td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Currently
+## Currently
 
-<p align="center">
-
-### 🔭 Building  
-a personal blog to share ideas and projects  
-
-<br/>
-
-### 🌱 Learning  
-Enterprise Java & Computer Networks  
-
-<br/>
-
-### 💬 Ask me about  
-Python • C++ • Web Development • Simulations  
-
-</p>
+<table align="center" width="80%">
+<tr>
+  <td align="center" width="33%">🔭 <strong>Building</strong><br/><br/>A personal blog to share ideas and projects</td>
+  <td align="center" width="33%">🌱 <strong>Learning</strong><br/><br/>Enterprise Java & Computer Networks</td>
+  <td align="center" width="33%">💬 <strong>Ask me about</strong><br/><br/>Python • C++ • Web Dev • Simulations</td>
+</tr>
+</table>
 
 ---
 
