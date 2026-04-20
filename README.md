@@ -58,10 +58,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" height="170" style="margin-left: 10px;"/>
 </p>
+
 ---
 
 ## 🌐 Connect with Me
