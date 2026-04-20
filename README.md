@@ -9,11 +9,25 @@
 
 ## 📊 Dashboard
 
-<p align="center">
+<table width="100%">
+<tr>
+<td align="center" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" height="170"/>
+</td>
+<td align="center" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" height="170"/>
-</p>
+</td>
+</tr>
 
+<tr>
+<td align="center">
+  <img src="https://streak-stats.demolab.com?user=JoachimRay&theme=tokyonight&hide_border=true" height="170"/>
+</td>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoachimRay&theme=tokyonight" height="170"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
