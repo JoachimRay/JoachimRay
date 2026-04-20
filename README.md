@@ -81,26 +81,42 @@ Currently building new projects and experiments.
 
 ---
 
-# Tech Stack
+## ⚒️ Tech Stack
 
-<p align="center">
-  <img title="Python" src="Github%20Profile%20Assets/python.png" width="40"/>
-  <img title="Java" src="Github%20Profile%20Assets/java.png" width="40"/>
-  <img title="C++" src="Github%20Profile%20Assets/c-.png" width="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img title="React" src="Github%20Profile%20Assets/react.png" width="40"/>
-  <img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img title="Figma" src="Github%20Profile%20Assets/figma.png" width="40"/>
-</p>
+<table align="center">
+<tr>
+  <td align="center"><img title="Python" src="Github%20Profile%20Assets/python.png" width="50"/></td>
+  <td align="center"><img title="Java" src="Github%20Profile%20Assets/java.png" width="50"/></td>
+  <td align="center"><img title="C++" src="Github%20Profile%20Assets/c-.png" width="50"/></td>
+</tr>
+
+<tr>
+  <td align="center"><img title="React" src="Github%20Profile%20Assets/react.png" width="50"/></td>
+  <td align="center"><img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="50"/></td>
+  <td align="center"><img title="Figma" src="Github%20Profile%20Assets/figma.png" width="50"/></td>
+</tr>
+</table>
 
 ---
 
-# Currently
+## ⚡ Currently
 
-- 🔭 Building: a personal blog to share ideas and projects  
-- 🌱 Learning: Enterprise Java & Computer Networks  
-- 💬 Ask me about: Python, C++, web dev, or simulations  
+<p align="center">
+
+### 🔭 Building  
+a personal blog to share ideas and projects  
+
+<br/>
+
+### 🌱 Learning  
+Enterprise Java & Computer Networks  
+
+<br/>
+
+### 💬 Ask me about  
+Python • C++ • Web Development • Simulations  
+
+</p>
 
 ---
 
