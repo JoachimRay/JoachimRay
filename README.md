@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 Dashboard
+# Dashboard
 
 <table width="100%">
 <tr>
@@ -70,7 +70,7 @@ Currently building new projects and experiments.
 
 ---
 
-## 🧠 What I Build
+# What I Build
 
 <p align="center">
   ⚛️ Simulations &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -81,7 +81,7 @@ Currently building new projects and experiments.
 
 ---
 
-## ⚒️ Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="Github%20Profile%20Assets/python.png" width="40"/>
@@ -94,7 +94,7 @@ Currently building new projects and experiments.
 
 ---
 
-## ⚡ Currently
+# Currently
 
 - 🔭 Building: a personal blog to share ideas and projects  
 - 🌱 Learning: Enterprise Java & Computer Networks  
@@ -102,7 +102,7 @@ Currently building new projects and experiments.
 
 ---
 
-## 🌐 Connect
+# Connect With me
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
