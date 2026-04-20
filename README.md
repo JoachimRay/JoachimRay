@@ -8,7 +8,7 @@ Hi! I'm a software enthusiast who loves building things with Python, Java, and m
 
 **Connect with me**
 
-[table]
+<table width="100%">
 <tr>
 	<td align="center"><a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" alt="gmail" width="28"/></a></td>
 	<td align="center"><a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" alt="linkedin" width="28"/></a></td>
