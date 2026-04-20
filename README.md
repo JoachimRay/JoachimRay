@@ -9,17 +9,17 @@
 
 ## 🚀 Featured Projects
 
-- **[Project Name]**  
-  Short description of what it does and why it’s interesting.  
-  *Tech:* Python, Next.js  
+- **Chatter**  
+  A chatting application that uses firebase and next.js.  
+  *Tech:* Next.js  
 
-- **[Simulation Project]**  
-  A physics-based simulation exploring [specific concept].  
-  *Tech:* C++, Java  
+- **Ball physics sim**  
+  A physics-based simulation of a ball bouncing around a room.  
+  *Tech:* C++
 
-- **[Web App]**  
-  Interactive web app solving [problem].  
-  *Tech:* Next.js, JavaScript  
+- **Zipper**  
+  A file compressor using Java and Gzip, displaying the statistics and process of compressing a file. 
+  *Tech:* Java, Gzip
 
 ---
 
@@ -40,8 +40,8 @@
 		<td align="center"><img src="Github%20Profile%20Assets/java.png" alt="Java" width="40"/></td>
         <td align="center"><img src="Github%20Profile%20Assets/c-.png" alt="C++" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="40"/></td>
+        <td align="center"><img src="Github%20Profile%20Assets/physics.png" alt="React,js" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
-		<td align="center"><b>Simulations</b></td>
 	</tr>
 </table>
 
@@ -49,18 +49,19 @@
 
 ## ⚡ Currently
 
-- 🔭 Building: a physics-based simulation project  
-- 🌱 Learning: advanced Next.js patterns & data visualization  
-- 💬 Ask me about: Python, C++, web dev, or simulations  
+- 🔭 Building: A blog for my personal use, and to also share my ideas.  
+- 🌱 Learning: Enterprise Java & Computer Networks. 
+- 💬 Ask me about: Python, C++, web dev, or simulations 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
