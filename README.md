@@ -7,74 +7,94 @@
 
 ---
 
+## 📊 Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-- **Chatter**  
-  A chatting application that uses firebase and next.js.  
-  *Tech:* Next.js  
-
-- **Ball physics sim**  
-  A physics-based simulation of a ball bouncing around a room.  
-  *Tech:* C++
-
-- **Zipper**  
-  A file compressor using Java and Gzip, displaying the statistics and process of compressing a file. 
-  *Tech:* Java, Gzip
-
----
-
-## 🧠 What I Like Building
-
-- Physics-based simulations  
-- Interactive web applications  
-- Problem-solving tools and experiments  
-- Projects that turn ideas into something tangible  
-
----
-
-## ⚒️ Skills & Tools
-
 <table width="100%">
-	<tr>
-		<td align="center"><img src="Github%20Profile%20Assets/python.png" alt="Python" width="40"/></td>
-		<td align="center"><img src="Github%20Profile%20Assets/java.png" alt="Java" width="40"/></td>
-        <td align="center"><img src="Github%20Profile%20Assets/c-.png" alt="C++" width="40"/></td>
-		<td align="center"><img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="40"/></td>
-        <td align="center"><img src="Github%20Profile%20Assets/physics.png" alt="React,js" width="40"/></td>
-		<td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
-	</tr>
+<tr>
+<td width="50%">
+
+### 💬 Chatter
+Real-time chat application built with Firebase and Next.js.  
+**Tech:** Next.js, Firebase  
+
+</td>
+<td width="50%">
+
+### ⚛️ Ball Physics Sim
+Simulation of a bouncing ball with basic physics and motion handling.  
+**Tech:** C++  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗜️ Zipper
+File compression tool using Gzip with visualized compression stats.  
+**Tech:** Java, Gzip  
+
+</td>
+<td width="50%">
+
+### 🧩 More Coming
+Currently building new projects and experiments.  
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🧠 What I Build
+
+<p align="center">
+  ⚛️ Simulations &nbsp;&nbsp;•&nbsp;&nbsp;
+  🌐 Web Apps &nbsp;&nbsp;•&nbsp;&nbsp;
+  🧠 Problem Solving &nbsp;&nbsp;•&nbsp;&nbsp;
+  🧪 Experiments
+</p>
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="Github%20Profile%20Assets/python.png" width="40"/>
+  <img src="Github%20Profile%20Assets/java.png" width="40"/>
+  <img src="Github%20Profile%20Assets/c-.png" width="40"/>
+  <img src="Github%20Profile%20Assets/nextjs.png" width="40"/>
+  <img src="Github%20Profile%20Assets/physics.png" width="40"/>
+  <img src="Github%20Profile%20Assets/figma.png" width="40"/>
+</p>
 
 ---
 
 ## ⚡ Currently
 
-- 🔭 Building: A blog for my personal use, and to also share my ideas.  
-- 🌱 Learning: Enterprise Java & Computer Networks. 
-- 💬 Ask me about: Python, C++, web dev, or simulations 
+- 🔭 Building: a personal blog to share ideas and projects  
+- 🌱 Learning: Enterprise Java & Computer Networks  
+- 💬 Ask me about: Python, C++, web dev, or simulations  
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" height="170" style="margin-left: 10px;"/>
+  <a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a>
+  <a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a>
+  <a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a>
+  <a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a>
 </p>
-
----
-
-## 🌐 Connect with Me
-
-<table width="100%">
-<tr>
-	<td align="center"><a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a></td>
-	<td align="center"><a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a></td>
-	<td align="center"><a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a></td>
-	<td align="center"><a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a></td>
-	<td align="center"><a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a></td>
-	<td align="center"><a href="https://facebook.com/your-profile"><img src="Github%20Profile%20Assets/facebook.png" width="28"/></a></td>
-</tr>
-</table>
 
 ---
