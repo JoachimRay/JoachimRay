@@ -1,4 +1,5 @@
 ## Yo I'm Joachim 👋
+> I build projects focused on problem-solving, simulations, and modern web apps.
 
 <p align="center">
 	<img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="900"/>
@@ -6,56 +7,73 @@
 
 ---
 
-**Connect with me**
+## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-	<td align="center"><a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" alt="gmail" width="28"/></a></td>
-	<td align="center"><a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" alt="linkedin" width="28"/></a></td>
-	<td align="center"><a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" alt="discord" width="28"/></a></td>
-	<td align="center"><a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" alt="instagram" width="28"/></a></td>
-	<td align="center"><a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" alt="youtube" width="28"/></a></td>
-	<td align="center"><a href="https://facebook.com/your-profile"><img src="Github%20Profile%20Assets/facebook.png" alt="facebook" width="28"/></a></td>
-</tr>
-</table>
+- **[Project Name]**  
+  Short description of what it does and why it’s interesting.  
+  *Tech:* Python, Next.js  
+
+- **[Simulation Project]**  
+  A physics-based simulation exploring [specific concept].  
+  *Tech:* C++, Java  
+
+- **[Web App]**  
+  Interactive web app solving [problem].  
+  *Tech:* Next.js, JavaScript  
 
 ---
 
-**Skills & Tools**
+## 🧠 What I Like Building
+
+- Physics-based simulations  
+- Interactive web applications  
+- Problem-solving tools and experiments  
+- Projects that turn ideas into something tangible  
+
+---
+
+## ⚒️ Skills & Tools
 
 <table width="100%">
 	<tr>
 		<td align="center"><img src="Github%20Profile%20Assets/python.png" alt="Python" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/java.png" alt="Java" width="40"/></td>
-        <td align = "center"><img src="Github%20Profile%20Assets/c-.png" alt = "CPP" width="40"/></td>
+        <td align="center"><img src="Github%20Profile%20Assets/c-.png" alt="C++" width="40"/></td>
 		<td align="center"><img src="Github%20Profile%20Assets/nextjs.png" alt="Next.js" width="40"/></td>
-		<td align="center"><img src="Github%20Profile%20Assets/physics.png" alt="Physics" width="40"/></td>
-        <td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
+		<td align="center"><img src="Github%20Profile%20Assets/figma.png" alt="Figma" width="40"/></td>
+		<td align="center"><b>Simulations</b></td>
 	</tr>
 </table>
 
 ---
 
-**Currently**
+## ⚡ Currently
 
-- 🔭 Working on: personal projects and polishing this profile
-- 🌱 Learning: advanced Next.js patterns and data visualization
-- 💬 Ask me about: Python, Java, Next.js, or physics-driven simulations
-
----
-
-**Featured Projects**
-
-- Project A — short description, link to repo
-- Project B — short description, link to repo
+- 🔭 Building: a physics-based simulation project  
+- 🌱 Learning: advanced Next.js patterns & data visualization  
+- 💬 Ask me about: Python, C++, web dev, or simulations  
 
 ---
 
-If you'd like, I can also:
+## 📊 GitHub Stats
 
-- add real links to your social profiles
-- generate GitHub stats cards (contribs, languages)
-- create a Projects showcase with thumbnails
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true" />
+</p>
 
-Replace placeholder links (email, LinkedIn, socials) with your real handles.
+---
 
+## 🌐 Connect with Me
+
+<table width="100%">
+<tr>
+	<td align="center"><a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a></td>
+	<td align="center"><a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a></td>
+	<td align="center"><a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a></td>
+	<td align="center"><a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a></td>
+	<td align="center"><a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a></td>
+	<td align="center"><a href="https://facebook.com/your-profile"><img src="Github%20Profile%20Assets/facebook.png" width="28"/></a></td>
+</tr>
+</table>
+
+---
