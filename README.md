@@ -83,19 +83,25 @@ Currently building new projects and experiments.
 
 ## ⚒️ Tech Stack
 
-<table align="center">
-<tr>
-  <td align="center"><img title="Python" src="Github%20Profile%20Assets/python.png" width="50"/></td>
-  <td align="center"><img title="Java" src="Github%20Profile%20Assets/java.png" width="50"/></td>
-  <td align="center"><img title="C++" src="Github%20Profile%20Assets/c-.png" width="50"/></td>
-</tr>
+<p align="center">
 
-<tr>
-  <td align="center"><img title="React" src="Github%20Profile%20Assets/react.png" width="50"/></td>
-  <td align="center"><img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="50"/></td>
-  <td align="center"><img title="Figma" src="Github%20Profile%20Assets/figma.png" width="50"/></td>
-</tr>
-</table>
+  <img title="Python" src="Github%20Profile%20Assets/python.png" width="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="Java" src="Github%20Profile%20Assets/java.png" width="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="C++" src="Github%20Profile%20Assets/c-.png" width="48"/>
+
+  <br/><br/>
+
+  <img title="React" src="Github%20Profile%20Assets/react.png" width="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="48"/>
+
+  <br/><br/>
+
+  <img title="Figma" src="Github%20Profile%20Assets/figma.png" width="48"/>
+
+</p>
 
 ---
 
