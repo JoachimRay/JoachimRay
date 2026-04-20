@@ -1,7 +1,7 @@
 ## Yo I'm Joachim 👋
 
 <p align="center">
-	<img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="720"/>
+	<img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="900"/>
 </p>
 
 ---
