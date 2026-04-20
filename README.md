@@ -104,11 +104,14 @@ Currently building new projects and experiments.
 
 ## 🌐 Connect
 
-<p align="center">
-  <a href="mailto:your.email@example.com">📧</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin">💼</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/your-id">💬</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/your-handle">📸</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/your-channel">▶️</a>
-</p>
+<table align="center">
+<tr>
+  <td align="center"><a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a></td>
+  <td align="center"><a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a></td>
+  <td align="center"><a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a></td>
+  <td align="center"><a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a></td>
+  <td align="center"><a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a></td>
+</tr>
+</table>
+
 ---
