@@ -120,7 +120,7 @@ Currently building new projects and experiments.
 
 <p align="center">
   <a href="mailto:raychiong2006@gmail.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joachim-chiong-7374b733a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/wakim_212"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/joachimchiong/"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Octodevz"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a>
