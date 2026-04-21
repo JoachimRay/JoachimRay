@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
@@ -44,7 +44,7 @@ Real-time chat application built with Firebase and Next.js.
 </td>
 <td width="50%">
 
-### ⚛️ Ball Physics Sim
+### Ball Physics Sim
 Simulation of a bouncing ball with basic physics and motion handling.  
 **Tech:** C++  
 
@@ -54,14 +54,14 @@ Simulation of a bouncing ball with basic physics and motion handling.
 <tr>
 <td width="50%">
 
-### 🗜️ Zipper
+### Zipper
 File compression tool using Gzip with visualized compression stats.  
 **Tech:** Java, Gzip  
 
 </td>
 <td width="50%">
 
-### 🧩 More Coming
+### More Coming
 Currently building new projects and experiments.  
 
 </td>
@@ -73,10 +73,10 @@ Currently building new projects and experiments.
 # What I Build
 
 <p align="center">
-  ⚛️ Simulations &nbsp;&nbsp;•&nbsp;&nbsp;
-  🌐 Web Apps &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧠 Problem Solving &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧪 Experiments
+   Simulations &nbsp;&nbsp;•&nbsp;&nbsp;
+   Web Apps &nbsp;&nbsp;•&nbsp;&nbsp;
+   Problem Solving &nbsp;&nbsp;•&nbsp;&nbsp;
+   Experiments
 </p>
 
 ---
@@ -116,14 +116,14 @@ Currently building new projects and experiments.
 
 ---
 
-# Connect With me
+# Contacts
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="raychiong2006@gmail.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/your-id"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/your-handle"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/your-channel"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a>
+  <a href="https://discord.com/users/wakim_212"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/joachimchiong/"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Octodevz"><img src="Github%20Profile%20Assets/youtube.png" width="28"/></a>
 </p>
 
 ---
