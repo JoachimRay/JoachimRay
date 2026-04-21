@@ -119,7 +119,7 @@ Currently building new projects and experiments.
 # Contacts
 
 <p align="center">
-  <a href="raychiong2006@gmail.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:raychiong2006@gmail.com"><img src="Github%20Profile%20Assets/gmail.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="Github%20Profile%20Assets/linkedin.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/wakim_212"><img src="Github%20Profile%20Assets/discord.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/joachimchiong/"><img src="Github%20Profile%20Assets/instagram.png" width="28"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
