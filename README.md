@@ -53,7 +53,17 @@
   <td align="center"><img title="Python" src="Github%20Profile%20Assets/python.png" width="50" alt="Python"/><br/><sub>Python</sub></td>
   <td align="center"><img title="Java" src="Github%20Profile%20Assets/java.png" width="50" alt="Java"/><br/><sub>Java</sub></td>
   <td align="center"><img title="C++" src="Github%20Profile%20Assets/c-.png" width="50" alt="C++"/><br/><sub>C++</sub></td>
-  <td></td>
+  <td align="center"><img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+</tr>
+<tr>
+  <td align="center"><img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+  <td align="center"><img title="PHP" src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/><br/><sub>PHP</sub></td>
+  <td align="center"><img title="Dart" src="https://skillicons.dev/icons?i=dart" width="50" alt="Dart"/><br/><sub>Dart</sub></td>
+  <td align="center"><img title="SQL" src="https://skillicons.dev/icons?i=postgres" width="50" alt="SQL"/><br/><sub>SQL</sub></td>
+</tr>
+<tr>
+  <td align="center" colspan="2"><img title="HTML" src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br/><sub>HTML</sub></td>
+  <td align="center" colspan="2"><img title="CSS" src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br/><sub>CSS</sub></td>
 </tr>
 <tr>
   <th align="center" colspan="4">Web</th>
