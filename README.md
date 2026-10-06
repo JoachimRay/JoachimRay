@@ -52,7 +52,7 @@
 <tr>
   <td align="center"><img title="Python" src="Github%20Profile%20Assets/python.png" width="50" alt="Python"/><br/><sub>Python</sub></td>
   <td align="center"><img title="Java" src="Github%20Profile%20Assets/java.png" width="50" alt="Java"/><br/><sub>Java</sub></td>
-  <td></td>
+  <td align="center"><img title="C++" src="Github%20Profile%20Assets/c-.png" width="50" alt="C++"/><br/><sub>C++</sub></td>
   <td></td>
 </tr>
 <tr>
@@ -69,9 +69,9 @@
 </tr>
 <tr>
   <td align="center"><img title="Flutter" src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/><br/><sub>Flutter</sub></td>
-  <td align="center"><img title="Expo" src="https://skillicons.dev/icons?i=expo" width="50" alt="Expo"/><br/><sub>Expo</sub></td>
+  <td align="center"><img title="Expo" src="https://cdn.simpleicons.org/expo/9CA3AF" width="50" height="50" alt="Expo"/><br/><sub>Expo</sub></td>
   <td align="center"><img title="Supabase" src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase"/><br/><sub>Supabase</sub></td>
-  <td></td>
+  <td align="center"><img title="Firebase" src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/><br/><sub>Firebase</sub></td>
 </tr>
 </table>
 
@@ -83,7 +83,7 @@
 <tr>
   <td align="center" width="33%"><strong>Building</strong><br/><br/>A personal blog to share ideas and projects</td>
   <td align="center" width="33%"><strong>Learning</strong><br/><br/>Enterprise Java & Computer Networks</td>
-  <td align="center" width="33%"><strong>Ask me about</strong><br/><br/>Python • Web Dev • Mobile Apps • Simulations</td>
+  <td align="center" width="33%"><strong>Ask me about</strong><br/><br/>Python • C++ • Web Dev • Mobile Apps • Simulations</td>
 </tr>
 </table>
 
