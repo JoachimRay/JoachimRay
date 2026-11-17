@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Joachim Chiong</title>
+  <desc id="desc">A monochrome, grid-backed developer profile header.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#d8d8d8" stroke-opacity=".075" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="460" fill="#050505" />
+  <rect width="1200" height="460" fill="url(#grid)" />
+  <rect x="20" y="20" width="1160" height="420" fill="none" stroke="#d8d8d8" stroke-width="2" />
+  <path d="M20 72H1180" stroke="#d8d8d8" stroke-width="2" />
+  <text x="48" y="54" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">PERSONAL PROFILE</text>
+  <text x="1152" y="54" fill="#9a9a9a" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="end" letter-spacing="2">CEBU, PH  ·  01</text>
+  <text x="48" y="222" fill="#f2f2f2" font-family="Arial Black, Impact, Arial, sans-serif" font-size="148" font-weight="900" letter-spacing="-8">JOACHIM</text>
+  <text x="48" y="354" fill="#f2f2f2" font-family="Arial Black, Impact, Arial, sans-serif" font-size="126" font-weight="900" letter-spacing="-5">CHIONG</text>
+  <path d="M48 382H1152" stroke="#d8d8d8" stroke-width="2" />
+  <text x="48" y="416" fill="#b0b0b0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">WEB / MOBILE / JAVA / EXPERIMENTS</text>
+  <text x="1152" y="416" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="end" letter-spacing="2">BUILD · BREAK · REPEAT</text>
+</svg>
