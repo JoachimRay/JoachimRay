@@ -1,50 +1,60 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Joachim Chiong — building useful things, breaking boring ones" />
+  <img src="assets/hero.svg" width="750" alt="hero"/>
 </p>
 
 <p align="center">
-  <strong>WEB & MOBILE DEVELOPER</strong> &nbsp; / &nbsp; CEBU, PH &nbsp; / &nbsp; OPEN TO INTERESTING IDEAS
+  <img src="assets/typing.svg" width="750" alt="typing"/>
 </p>
 
-<hr />
-
-<table>
-  <tr>
-    <td><strong>FOCUS</strong><br />Web & mobile apps</td>
-    <td><strong>EXPLORING</strong><br />Enterprise Java</td>
-    <td><strong>FOR FUN</strong><br />Simulations & experiments</td>
-  </tr>
-</table>
-
-<hr />
-
-### 01 / ABOUT
-
-I build web and mobile apps, simulate things for fun, and solve problems one commit at a time. Currently learning Enterprise Java and always looking for the next thing worth making.
-
-### 02 / IN THE WORKSHOP
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong>BUILD</strong><br /><br />Web apps<br />Mobile apps<br />Small tools that make an idea real</td>
-    <td width="50%" valign="top"><strong>EXPLORE</strong><br /><br />Enterprise Java<br />Simulations<br />Whatever I’m curious about next</td>
-  </tr>
-</table>
-
-### 03 / TOOLKIT
-
-<p><strong>WEB &nbsp; / &nbsp; MOBILE &nbsp; / &nbsp; JAVA &nbsp; / &nbsp; SIMULATIONS</strong></p>
-
-<hr />
-
-### 04 / FIND ME
-
-<p>
-  <a href="mailto:raychiong2006@gmail.com">EMAIL</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/joachim-chiong-7374b733a">LINKEDIN</a> &nbsp; / &nbsp;
-  <a href="https://discord.com/users/wakim_212">DISCORD</a> &nbsp; / &nbsp;
-  <a href="https://www.instagram.com/joachimchiong/">INSTAGRAM</a> &nbsp; / &nbsp;
-  <a href="https://www.youtube.com/@Octodevz">YOUTUBE</a>
+<p align="center">
+  <img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="750"/>
 </p>
 
-<p align="right"><sub>MAKE SOMETHING. MAKE IT WORK. MAKE IT WEIRD.</sub></p>
+<p align="center">
+  <img src="assets/sysinfo.svg" width="750" alt="sysinfo"/>
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="750" alt="terminal"/>
+</p>
+
+<p align="center">
+  <img src="assets/skills.svg" width="750" alt="skills"/>
+</p>
+
+<p align="center">
+  <img src="assets/progress.svg" width="750" alt="progress"/>
+</p>
+
+<p align="center">
+  <img src="assets/stack.svg" width="750" alt="stack"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=2e2e2e&count_private=true" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=2e2e2e" height="170" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoachimRay&background=000000&border=2e2e2e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&stroke=2e2e2e" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoachimRay&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&hide_border=true&area=true" width="750" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="assets/contact.svg" width="750" alt="contact"/>
+</p>
+
+<p align="center">
+  <a href="mailto:raychiong2006@gmail.com">[ email ]</a>
+  <a href="https://www.linkedin.com/in/joachim-chiong-7374b733a">[ linkedin ]</a>
+  <a href="https://discord.com/users/wakim_212">[ discord ]</a>
+  <a href="https://www.instagram.com/joachimchiong/">[ instagram ]</a>
+  <a href="https://www.youtube.com/@Octodevz">[ youtube ]</a>
+</p>
+
+<p align="center">
+  <img src="assets/exit.svg" width="750" alt="exit"/>
+</p>
