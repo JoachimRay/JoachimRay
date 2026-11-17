@@ -1,112 +1,165 @@
-## Yo I'm Joachim 
-> I build projects focused on problem-solving, simulations, and modern web apps.
+<div align="center">
+<pre>
+     ██╗ ██████╗  █████╗  ██████╗██╗  ██╗██╗███╗   ███╗
+     ██║██╔═══██╗██╔══██╗██╔════╝██║  ██║██║████╗ ████║
+     ██║██║   ██║███████║██║     ███████║██║██╔████╔██║
+██   ██║██║   ██║██╔══██║██║     ██╔══██║██║██║╚██╔╝██║
+╚█████╔╝╚██████╔╝██║  ██║╚██████╗██║  ██║██║██║ ╚═╝ ██║
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 
-<p align="center">
-	<img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="900"/>
+</pre>
+
+<code>[ CS student @ iACADEMY Cebu ]  //  [ web ]  [ mobile ]  [ simulations ]</code>
+
+<img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="900"/>
+
+<img src="https://img.shields.io/badge/location-Cebu%2C%20PH-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" alt="location"/>
+<img src="https://img.shields.io/badge/status-open%20to%20internships%20%26%20collabs-1a1b27?style=flat-square&labelColor=1a1b27&color=9ece6a" alt="status"/>
+<img src="https://komarev.com/ghpvc/?username=JoachimRay&style=flat-square&color=7aa2f7&label=views" alt="views"/>
+</div>
+
+```
+>> WHOAMI
+=========
+```
+
+```
+joachim@cebu:~$ whoami
+Joachim Ray Chiong - computer science student, iACADEMY Cebu
+
+joachim@cebu:~$ cat about.txt
+I turn messy problems into working software. Mostly web apps,
+mobile apps and simulations. I care about code clean enough to
+explain to a teammate, and I'd rather know WHY it works than
+copy-paste it.
+
+joachim@cebu:~$ ./status.sh
+  building  : a personal blog to share ideas and projects
+  learning  : enterprise java, computer networks
+  ask me    : python, c++, web dev, mobile apps, simulations
+
+joachim@cebu:~$ _
+```
+
+```
+>> PROJECTS
+===========
+```
+
+```
++--------------------------------------------------------------+
+| [01] BoardEase                                               |
++--------------------------------------------------------------+
+| Mobile app for boarding-house tenants: view bills, track     |
+| payments.                                                    |
+|                                                              |
+| stack : Expo | React Native | TypeScript                     |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+| [02] Claudia Cakes                                           |
++--------------------------------------------------------------+
+| Cake ordering site for a family bakery, built on a custom    |
+| PHP MVC framework.                                           |
+|                                                              |
+| stack : PHP | MVC | MySQL                                    |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+| [03] i-Records                                               |
++--------------------------------------------------------------+
+| Student portfolio platform (group project) for showcasing    |
+| academic work.                                               |
+|                                                              |
+| stack : Web | ERD design | Team project                      |
++--------------------------------------------------------------+
+
++--------------------------------------------------------------+
+| [04] Personal Portfolio                                      |
++--------------------------------------------------------------+
+| My portfolio site, with a projects table backed by a real    |
+| database.                                                    |
+|                                                              |
+| stack : Next.js | Supabase | Drizzle                         |
++--------------------------------------------------------------+
+```
+
+**Links:** [BoardEase](#) | [Claudia Cakes](#) | [i-Records](#) | [Portfolio](#)
+
+```
+>> STACK
+========
+```
+
+```
+stack/
+|-- languages/
+|   |-- python
+|   |-- java
+|   |-- c++
+|   |-- javascript
+|   |-- typescript
+|   |-- php
+|   |-- dart
+|   `-- sql, html, css
+|-- web/
+|   |-- react
+|   |-- next.js
+|   |-- laravel
+|   `-- astro
+`-- mobile_backend/
+    |-- flutter
+    |-- expo
+    |-- supabase
+    `-- firebase
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,dart,html,css,react,nextjs,laravel,astro,flutter,supabase,firebase,postgres,git,github,vscode,figma" alt="stack icons"/>
 </p>
 
----
-
-# Dashboard
-
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight" height="180"/>
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight" height="180"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-  <img src="https://streak-stats.demolab.com?user=JoachimRay&theme=tokyonight&hide_border=true" height="180"/>
-</td>
-<td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoachimRay&theme=tokyonight" height="180"/>
-</td>
-</tr>
-</table>
-
----
-
-# What I Build
+```
+>> STATS
+========
+```
 
 <p align="center">
-   Web Apps &nbsp;&nbsp;•&nbsp;&nbsp;
-   Mobile Apps &nbsp;&nbsp;•&nbsp;&nbsp;
-   Simulations &nbsp;&nbsp;•&nbsp;&nbsp;
-   Problem Solving &nbsp;&nbsp;•&nbsp;&nbsp;
-   Experiments
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages"/>
 </p>
-
----
-
-## Tech Stack
-
-<table align="center">
-<tr>
-  <th align="center" colspan="4">Languages</th>
-</tr>
-<tr>
-  <td align="center"><img title="Python" src="Github%20Profile%20Assets/python.png" width="50" alt="Python"/><br/><sub>Python</sub></td>
-  <td align="center"><img title="Java" src="Github%20Profile%20Assets/java.png" width="50" alt="Java"/><br/><sub>Java</sub></td>
-  <td align="center"><img title="C++" src="Github%20Profile%20Assets/c-.png" width="50" alt="C++"/><br/><sub>C++</sub></td>
-  <td align="center"><img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-</tr>
-<tr>
-  <td align="center"><img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-  <td align="center"><img title="PHP" src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/><br/><sub>PHP</sub></td>
-  <td align="center"><img title="Dart" src="https://skillicons.dev/icons?i=dart" width="50" alt="Dart"/><br/><sub>Dart</sub></td>
-  <td align="center"><img title="SQL" src="https://skillicons.dev/icons?i=postgres" width="50" alt="SQL"/><br/><sub>SQL</sub></td>
-</tr>
-<tr>
-  <td align="center" colspan="2"><img title="HTML" src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br/><sub>HTML</sub></td>
-  <td align="center" colspan="2"><img title="CSS" src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br/><sub>CSS</sub></td>
-</tr>
-<tr>
-  <th align="center" colspan="4">Web</th>
-</tr>
-<tr>
-  <td align="center"><img title="React" src="Github%20Profile%20Assets/react.png" width="50" alt="React"/><br/><sub>React</sub></td>
-  <td align="center"><img title="Next.js" src="Github%20Profile%20Assets/nextjs.png" width="50" alt="Next.js"/><br/><sub>Next.js</sub></td>
-  <td align="center"><img title="Laravel" src="https://skillicons.dev/icons?i=laravel" width="50" alt="Laravel"/><br/><sub>Laravel</sub></td>
-  <td align="center"><img title="Astro" src="https://skillicons.dev/icons?i=astro" width="50" alt="Astro"/><br/><sub>Astro</sub></td>
-</tr>
-<tr>
-  <th align="center" colspan="4">Mobile & Backend</th>
-</tr>
-<tr>
-  <td align="center"><img title="Flutter" src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/><br/><sub>Flutter</sub></td>
-  <td align="center"><img title="Expo" src="https://cdn.simpleicons.org/expo/9CA3AF" width="50" height="50" alt="Expo"/><br/><sub>Expo</sub></td>
-  <td align="center"><img title="Supabase" src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase"/><br/><sub>Supabase</sub></td>
-  <td align="center"><img title="Firebase" src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/><br/><sub>Firebase</sub></td>
-</tr>
-</table>
-
----
-
-## Currently
-
-<table align="center" width="80%">
-<tr>
-  <td align="center" width="33%"><strong>Building</strong><br/><br/>A personal blog to share ideas and projects</td>
-  <td align="center" width="33%"><strong>Learning</strong><br/><br/>Enterprise Java & Computer Networks</td>
-  <td align="center" width="33%"><strong>Ask me about</strong><br/><br/>Python • C++ • Web Dev • Mobile Apps • Simulations</td>
-</tr>
-</table>
-
----
-
-# Contacts
 
 <p align="center">
-  <a href="mailto:raychiong2006@gmail.com"><img src="Github%20Profile%20Assets/gmail.png" width="28" alt="Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joachim-chiong-7374b733a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="Github%20Profile%20Assets/linkedin.png" width="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/wakim_212"><img src="Github%20Profile%20Assets/discord.png" width="28" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/joachimchiong/"><img src="Github%20Profile%20Assets/instagram.png" width="28" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Octodevz"><img src="Github%20Profile%20Assets/youtube.png" width="28" alt="YouTube"/></a>
+  <img src="https://streak-stats.demolab.com?user=JoachimRay&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoachimRay&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+```
+>> CONTACT
+==========
+```
+
+```
++----------+------------------------------------------+
+| email    | raychiong2006@gmail.com                  |
+| discord  | wakim_212                                |
+| linkedin | joachim-chiong-7374b733a                 |
+| insta    | @joachimchiong                           |
+| youtube  | @Octodevz                                |
++----------+------------------------------------------+
+```
+
+<p align="center">
+  <a href="mailto:raychiong2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/joachim-chiong-7374b733a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/wakim_212"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.instagram.com/joachimchiong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@Octodevz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+```
+joachim@cebu:~$ exit
+logout - thanks for stopping by
+```
