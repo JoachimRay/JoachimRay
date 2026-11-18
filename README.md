@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" width="750" alt="hero"/>
+  <img src="assets/bw/hero.svg?v=3" width="750" alt="hero"/>
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg" width="750" alt="typing"/>
+  <img src="assets/bw/typing.svg?v=3" width="750" alt="typing"/>
 </p>
 
 <p align="center">
@@ -11,27 +11,27 @@
 </p>
 
 <p align="center">
-  <img src="assets/sysinfo.svg" width="750" alt="sysinfo"/>
+  <img src="assets/bw/sysinfo.svg?v=3" width="750" alt="sysinfo"/>
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="750" alt="terminal"/>
+  <img src="assets/bw/terminal.svg?v=3" width="750" alt="terminal"/>
 </p>
 
 <p align="center">
-  <img src="assets/skills.svg" width="750" alt="skills"/>
+  <img src="assets/bw/skills.svg?v=3" width="750" alt="skills"/>
 </p>
 
 <p align="center">
-  <img src="assets/progress.svg" width="750" alt="progress"/>
+  <img src="assets/bw/progress.svg?v=3" width="750" alt="progress"/>
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="750" alt="stack"/>
+  <img src="assets/bw/stack.svg?v=3" width="750" alt="stack"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=2e2e2e&count_private=true" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoachimRay&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=2e2e2e&count_private=true" height="170" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimRay&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=2e2e2e" height="170" alt="top languages"/>
 </p>
 
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/contact.svg" width="750" alt="contact"/>
+  <img src="assets/bw/contact.svg?v=3" width="750" alt="contact"/>
 </p>
 
 <p align="center">
@@ -56,5 +56,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/exit.svg" width="750" alt="exit"/>
+  <img src="assets/bw/exit.svg?v=3" width="750" alt="exit"/>
 </p>
+
