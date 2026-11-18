@@ -1,33 +1,29 @@
 <p align="center">
-  <img src="assets/bw/hero.svg?v=3" width="750" alt="hero"/>
+  <img src="assets/bw/hero.svg?v=4" width="750" alt="hero"/>
 </p>
 
 <p align="center">
-  <img src="assets/bw/typing.svg?v=3" width="750" alt="typing"/>
+  <img src="assets/bw/typing.svg?v=4" width="750" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="Github%20Profile%20Assets/banner_video.gif" alt="banner" width="750"/>
+  <img src="assets/bw/sysinfo.svg?v=4" width="750" alt="sysinfo"/>
 </p>
 
 <p align="center">
-  <img src="assets/bw/sysinfo.svg?v=3" width="750" alt="sysinfo"/>
+  <img src="assets/bw/terminal.svg?v=4" width="750" alt="terminal"/>
 </p>
 
 <p align="center">
-  <img src="assets/bw/terminal.svg?v=3" width="750" alt="terminal"/>
+  <img src="assets/bw/skills.svg?v=4" width="750" alt="skills"/>
 </p>
 
 <p align="center">
-  <img src="assets/bw/skills.svg?v=3" width="750" alt="skills"/>
+  <img src="assets/bw/progress.svg?v=4" width="750" alt="progress"/>
 </p>
 
 <p align="center">
-  <img src="assets/bw/progress.svg?v=3" width="750" alt="progress"/>
-</p>
-
-<p align="center">
-  <img src="assets/bw/stack.svg?v=3" width="750" alt="stack"/>
+  <img src="assets/bw/stack.svg?v=4" width="750" alt="stack"/>
 </p>
 
 <p align="center">
@@ -44,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/bw/contact.svg?v=3" width="750" alt="contact"/>
+  <img src="assets/bw/contact.svg?v=4" width="750" alt="contact"/>
 </p>
 
 <p align="center">
@@ -56,6 +52,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/bw/exit.svg?v=3" width="750" alt="exit"/>
+  <img src="assets/bw/exit.svg?v=4" width="750" alt="exit"/>
 </p>
-
